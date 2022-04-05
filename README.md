@@ -10,4 +10,4 @@ Personal website
 ## Employment
 
 - Graduate Research Asst.
-- Exploration Intern
+- Exploration Intern 
